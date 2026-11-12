@@ -4,7 +4,7 @@
         "Frooxius",
         "rampa_3",
         "Chundelac",
-        "Vassterak"
+        "Vasterak"
     ],
     "messages": {
         "General.OK": "OK",
@@ -118,6 +118,8 @@
         "Interaction.SaveAsScreenshot": "Uložit jako screenshot",
         "Interaction.ExportScreenshot": "Exportovat screenshot",
         "Interaction.ImportFile": "Importovat Soubor",
+        "Interaction.SaveAsVideo": "Uložit jako video",
+        "Interaction.ExportVideo": "Exportovat video",
         "Interaction.ExportFile": "Exportovat Soubor",
         "Interaction.CopyLink": "Kopírovat odkaz",
         "Interaction.CopyImage": "Kopírovat obrázek",
@@ -1955,6 +1957,8 @@
 
         "Settings.PhotoCaptureSettings.FingerGestureEnabled": "Snímky pomocí gesty prstů",
         "Settings.PhotoCaptureSettings.FingerGestureEnabled.Description": "Je-li tato funkce zapnutá, můžete ve hře rychle pořizovat snímky tak, že prsty vytvoříte rámeček a poté ohnete jeden z ukazováčků.",
+        "Settings.PhotoCaptureSettings.VideoRecording": "Nahrávání videa<sup><color=hero.red>BETA",
+        "Settings.PhotoCaptureSettings.VideoRecording.Description": "Je-li tato funkce zapnutá, krátkým podržením gesta pro pořízení časovaného snímku spustíte místo toho nahrávání videa. Funkce je momentálně ve fázi BETA a nemusí fungovat správně. Prosím, nahlaste případné problémy na GitHubu!",
         "Settings.PhotoCaptureSettings.NormalCaptureResolution": "Rozlišení snímků",
         "Settings.PhotoCaptureSettings.NormalCaptureResolution.Description": "Toto nastavuje rozlišení běžných snímků pořízených pomocí gest prstem nebo klávesové zkratky. Zpracování snímků s vyšším rozlišením zabere více času a zabere více místa v úložišti, ale poskytne vyšší detaily.",
         "Settings.PhotoCaptureSettings.TimerCaptureResolution": "Rozlišení časovaného snímku",
@@ -1981,6 +1985,12 @@
         "Settings.PhotoCaptureSettings.AlwaysHideNameplates.Description": "Tuto funkci zapněte, pokud chcete, aby se na vašich snímcích nikdy nezobrazovaly jmenovky uživatelů. Toto nastavení je nezávislé na aktuální viditelnosti jmenovek a vždy zajistí, že budou na pořízených fotografiích skryty.",
         "Settings.PhotoCaptureSettings.AlwaysHideGizmos": "Vždy skrývat gizma",
         "Settings.PhotoCaptureSettings.AlwaysHideGizmos.Description": "Zapněte tuto funkci pokud chcete skrýt všechna vývojářská gizma ve vašich snímcích. To může pomoci v případech, kde chcete pořídit čisté snímky i v případě že někdo něco edituje. Inspektory a ProtoFlux zůstanou viditelné.",
+
+        "Settings.VideoCaptureSettings": "Nastavení záznamu videa",
+        "Settings.VideoCaptureSettings.VideoBitrateMbps": "Datový tok videa v Mbps",
+        "Settings.VideoCaptureSettings.VideoBitrateMbps.Description": "Datový tok (bitrate) použitý při enkódování videozáznamu. Vyšší datový tok přinese lepší kvalitu obrazu, ale také větší soubory.",
+        "Settings.VideoCaptureSettings.AudioBitrateKbps": "Datový tok audia v Kbps",
+        "Settings.VideoCaptureSettings.AudioBitrateKbps.Description": "Datový tok (bitrate) použitý při enkódování zvukové stopy pro videozáznam. Vyšší datový tok přinese lepší kvalitu zvuku, ale mírně zvětší velikost souboru.",
 
         "Settings.DesktopRenderSettings.FieldOfView": "Zorné pole (FOV)",
         "Settings.DesktopRenderSettings.FieldOfView.Description": "Tuto funkci použijte k nastavení zorného pole (FOV) v režimu plochy. Vyšší hodnoty vám poskytnou širší záběr, avšak na úkor většího zkreslení po stranách pořízeného snímku.",

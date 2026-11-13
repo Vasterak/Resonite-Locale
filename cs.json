@@ -652,11 +652,11 @@
         "Session.Tab.Users": "Uživatelé",
         "Session.Tab.Permissions": "Práva",
 
-        "Session.Permission.Anonymous": "Výchozí anonym:",
-        "Session.Permission.Vistor": "Výchozí návštěvník:",
-        "Session.Permission.Contact": "Výchozí kontakt:",
-        "Session.Permission.Host": "Výchozí host:",
-        "Session.Permission.PermissionOverrideCount": "Počet uživatelů s individuálními právy: {n,select, -1 {---} other {{n}}}",
+        "Session.Permission.Anonymous": "Výchozí pro anonymy:",
+        "Session.Permission.Vistor": "Výchozí pro návštěvníky:",
+        "Session.Permission.Contact": "Výchozí pro kontakty:",
+        "Session.Permission.Host": "Výchozí pro hostitele:",
+        "Session.Permission.PermissionOverrideCount": "Individuální práva: {n,select, -1 {---} other {{n}}}",
         "Session.Permission.ClearOverrides": "Smazat individuální práva",
 
         "Session.JoinVerifier.EnableHeader" : "Aktivovat vlastní ověřovač žádostí o připojení?",

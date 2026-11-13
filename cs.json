@@ -2836,8 +2836,8 @@
         "Temporary.MMC.Categories.Worlds.Social": "Sociální",
         "Temporary.MMC.Categories.Worlds.Game": "Hry",
 
-        "Temporary.MMC.Categories.Other": "Ostatní",
-        "Temporary.MMC.Categories.Misc": "Různé",
+        "Temporary.MMC.Categories.Other": "Další",
+        "Temporary.MMC.Categories.Misc": "Ostatní",
         "Temporary.MMC.Categories.Meme": "Memy",
 
         "Temporary.MMC.Categories.Avatars": "Avataři",
@@ -3910,7 +3910,7 @@
         "Help.About.Badges.Yearly": "Ročníky",
         "Help.About.Badges.Account": "Účet",
         "Help.About.Badges.Hosting": "Hostování",
-        "Help.About.Badges.Misc": "Různé",
+        "Help.About.Badges.Misc": "Ostatní",
 
         "Help.About.Badges.StaffAndVolunteers.PlatformTeam": "{appName} tým",
         "Help.About.Badges.StaffAndVolunteers.PlatformTeam.Content": "Zaměstnanec, který se podílí na tvorbě {appName}.",
